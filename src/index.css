@@ -1,0 +1,45 @@
+body {
+  background-color: #c3d5f0;
+}
+
+.city-box {
+  display: flex;
+  align-items: center;
+  border-bottom: 1px solid black;
+  padding: 0 10px;
+  width: 300px;
+  margin: 0 auto;
+}
+.city-box input {
+  text-align: center;
+  font-size: 32px;
+  font-weight: 600;
+  background-color: transparent;
+  border: none;
+}
+.city-box input:focus {
+  background-color: transparent;
+  outline: none;
+}
+.city-box button {
+  font-size: 22px;
+}
+.city-box button i {
+  vertical-align: middle;
+}
+
+.card {
+  background-color: #A6B9D9;
+  border: none;
+  border-radius: 10px;
+}
+.card .image {
+  text-align: center;
+}
+.card .sub .row {
+  border-radius: 10px;
+  background-color: #5c7094;
+}
+.card .sub .row img {
+  width: 72px;
+}/*# sourceMappingURL=index.css.map */
